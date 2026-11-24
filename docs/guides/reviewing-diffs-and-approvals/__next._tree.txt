@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/3f9dr2iv52nsl.css","style"]
+:HL["/_next/static/chunks/2pz9c7_c7xzzj.css","style"]
 :HL["/_next/static/media/48eea41d8317494f-s.p.0wiir8udbzjvx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/73c8302d2fdfe340-s.p.30xqm3yldpj47.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/9f5be66613d9c872-s.p.27korwsf9c79u.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -6,4 +6,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"c","k":"guides/reviewing-diffs-and-approvals","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"docs","h":64,"c":"$Q2"}]]
-0:{"b":"LMlpa9sffWbIe6oBd6lvt","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"XcRTxNDEsV9TNrIjGbYpW","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
